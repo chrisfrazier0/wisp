@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/Frazier-Software/wisp">
+  <a href="https://github.com/chrisfrazier0/wisp">
     <img src="private/logo.png" alt="Logo" width="254" height="258">
   </a>
   <h3 align="center">Wisp</h3>
@@ -89,10 +89,10 @@ and customer sites. Hopefully someone enjoys this refreshed edition as much as I
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[issues-shield]: https://img.shields.io/github/issues/Frazier-Software/wisp.svg?style=for-the-badge
-[issues-url]: https://github.com/Frazier-Software/wisp/issues
-[license-shield]: https://img.shields.io/github/license/Frazier-Software/wisp.svg?color=44CC11&style=for-the-badge
-[license-url]: https://github.com/Frazier-Software/wisp/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/chrisfrazier0/wisp.svg?style=for-the-badge
+[issues-url]: https://github.com/chrisfrazier0/wisp/issues
+[license-shield]: https://img.shields.io/github/license/chrisfrazier0/wisp.svg?color=44CC11&style=for-the-badge
+[license-url]: https://github.com/chrisfrazier0/wisp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [dave-url]: https://github.com/dhg

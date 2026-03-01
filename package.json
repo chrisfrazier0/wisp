@@ -5,7 +5,7 @@
   "homepage": "https://wisp.frazier.software",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Frazier-Software/wisp.git"
+    "url": "git+https://github.com/chrisfrazier0/wisp.git"
   },
   "main": "dist/wisp.css",
   "files": [
